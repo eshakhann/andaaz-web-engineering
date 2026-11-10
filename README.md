@@ -33,7 +33,7 @@ ANDAAZ is a modern fashion e-commerce frontend developed as a Web Engineering pr
 
 ## 🚀 How to Run the Project
 
-**Live Demo:** [ANDAAZ Live Website](ADD_LIVE_DEMO_LINK_HERE)
+**Live Demo:** [Visit ANDAAZ Website](https://eshakhann.github.io/andaaz-web-engineering/)
 
 To run locally:
 
