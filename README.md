@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  ANDAAZ. — A Modern Fashion E-Commerce Platform.
+  **ANDAAZ. — A Modern Fashion E-Commerce Platform.**
 </p>
 
 <p align="center">
-  <strong>Project Status: In Progress 🚧</strong>
+  **Project Status: In Progress 🚧**
 </p>
 
 ## About
 
-ANDAAZ is a e-commerce website developed as a Web Engineering project. It aims to provide an elegant and user-friendly platform for exploring fashion collections and products.
+ANDAAZ is a modern fashion e-commerce frontend developed as a Web Engineering project. It provides an elegant platform for exploring fashion collections and products, built using HTML5, CSS3, and JavaScript.
 
 ## Features
 
@@ -31,9 +31,17 @@ ANDAAZ is a e-commerce website developed as a Web Engineering project. It aims t
 - CSS3
 - JavaScript
 
-## Project Status
+## 🚀 How to Run the Project
 
-Currently under development. More features and improvements will be added.
+**Live Demo:** [ANDAAZ Live Website](ADD_LIVE_DEMO_LINK_HERE)
+
+To run locally:
+
+1. Clone or download this repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser.
+
+*For the best experience, use Google Chrome or Mozilla Firefox.*
 
 ## Author
 
