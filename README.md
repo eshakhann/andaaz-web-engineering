@@ -42,16 +42,23 @@ To run locally:
 3. Open `index.html` in your browser.
 
 *For the best experience, use Google Chrome or Mozilla Firefox.*
-
 ## 📁 Project Structure
 
+```text
 ANDAAZ/
 │
-├── index.html
-├── styles.css
-├── script.js
 ├── images/
+│   ├── favicon.png
+│   ├── hero-image.png
+│   ├── img1.jpg
+│   ├── img2.jpg
+│   └── logo.png
+│
+├── index.html
+├── script.js
+├── styles.css
 └── README.md
+```
 
 ## Author
 
