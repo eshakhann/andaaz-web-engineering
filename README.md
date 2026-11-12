@@ -1,7 +1,7 @@
 # ANDAAZ — Fashion E-Commerce Website
 
 <p align="center">
-  <img src="images/logo.png" alt="ANDAAZ Logo" width="220">
+  <img src="images/logo.png" alt="ANDAAZ Logo" width="260">
 </p>
 
 <p align="center">
@@ -42,6 +42,16 @@ To run locally:
 3. Open `index.html` in your browser.
 
 *For the best experience, use Google Chrome or Mozilla Firefox.*
+
+## 📁 Project Structure
+
+ANDAAZ/
+│
+├── index.html
+├── styles.css
+├── script.js
+├── images/
+└── README.md
 
 ## Author
 
